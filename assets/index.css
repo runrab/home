@@ -228,7 +228,7 @@
 }
 
 .fashion-slider-title-text {
-    font-weight: 700;
+    font-weight: 400;
     font-size: var(--fashion-slider-title-font-size);
     line-height: var(--fashion-slider-title-line-height);
     letter-spacing: -1px;
@@ -405,7 +405,7 @@ body {
 }
 
 .fashion-slider {
-    --fashion-slider-title-font-size: 88px
+    --fashion-slider-title-font-size: 66px
 }
 
 @media (max-width: 480px) {
